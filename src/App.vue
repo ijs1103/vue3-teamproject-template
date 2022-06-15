@@ -1,7 +1,6 @@
 <template>
   <TheHeader />
   <RouterView />
-  <font-awesome-icon icon="trash-alt" />
 </template>
 
 <script>
